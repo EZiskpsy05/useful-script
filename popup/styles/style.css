@@ -116,6 +116,7 @@ a:hover {
     cursor: pointer;
     padding: 10px 12px;
     transition: 0.3s;
+
 }
 
 .tab button:hover {
@@ -188,9 +189,11 @@ a:hover {
     border: none;
     margin: 0.25em;
     padding: 0.75em 1em;
-    color: #333;
-    background-color: #c6c6c6;
+    color: #1b1e25;
     transition: all 200ms;
+    background: #a2c1ff;
+    box-shadow: inset 0px 5px 5px rgba(86, 89, 100, 0.712);
+    border-radius: 30px;
 }
 
 .content button:hover {
